@@ -1,7 +1,7 @@
 {
   "name": "social-gif-kodyfire",
   "version": "0.0.1",
-  "description": "Generate x with social-gif kodyfire",
+  "description": "Generate dynamic gif based on HTML templates using Kodyfire",
   "main": "build/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

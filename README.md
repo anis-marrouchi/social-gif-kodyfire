@@ -41,9 +41,9 @@ kody run -s kody-social-gif.json
      <td>timeTravel</td>
   </tr>
   <tr>
-    <td><img src="assets/doodle-seeding.png" width=200></td>
-    <td><img src="assets/doodle-strings.png" width=200></td>
-    <td><img src="assets/doodle-timeTravel.png" width=200></td>
+    <td><img src="assets/doodle-seeding.gif" width=200></td>
+    <td><img src="assets/doodle-strings.gif" width=200></td>
+    <td><img src="assets/doodle-timeTravel.gif" width=200></td>
   </tr>
  </table>
 
