@@ -1,6 +1,6 @@
 {
   "name": "social-gif-kodyfire",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "description": "Generate dynamic gif based on HTML templates using Kodyfire",
   "main": "build/index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "@angular-devkit/core": "^12.2.3",
     "@angular-devkit/schematics": "^12.2.3",
     "ajv": "^8.6.3",
-    "basic-kodyfire": "^0.0.139",
+    "basic-kodyfire": "^0.0.156",
     "fs-extra": "^10.0.0",
     "gifencoder": "^2.0.1",
     "handlebars": "^4.7.7",
