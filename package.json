@@ -1,6 +1,6 @@
 {
   "name": "social-gif-kodyfire",
-  "version": "0.0.6",
+ "version": "0.0.9",
   "description": "Generate dynamic gif based on HTML templates using Kodyfire",
   "main": "build/index.js",
   "scripts": {
